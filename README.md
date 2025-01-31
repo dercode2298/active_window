@@ -1,6 +1,10 @@
 # KÍCH HOẠT OFFICE MỌI PHIÊN BẢN BẰNG TOOL VÀ CMD #
 Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 Enterprise, Office 365 Prolus.
 
+```
+powershell iex (irm https://get.activated.win)
+```
+
 ## Kích hoạt bằng key online hoặc key by phone: ##
   - [Key online](https://github.com/BsNgChiThanh/ActiveWindowsOfficeOnline)
   - [Key by phone](https://github.com/BsNgChiThanh/ActiveOfficeByPhone)
